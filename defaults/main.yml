@@ -10,7 +10,7 @@ autofs_pkgs:
 autofs_master:
   Linux: "/etc/auto.master"
   Archlinux: "/etc/autofs/auto.master"
-  Darwin: "/etc/auto_master"
+  Darwin: "/System/Volumes/Data/etc/auto_master"
 
 # --- autofs config ---
 autofs_indirect_maps: []
